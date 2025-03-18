@@ -72,7 +72,7 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'dataStructure',
+          sidebarId: 'data-structure',
           position: 'left',
           label: 'Data Structures',
         },
