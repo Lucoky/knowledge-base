@@ -51,7 +51,7 @@ public class Queue
     private int rear;
     private int capacity;
 
-    public Queue(int size)
+    public Queue()
     {
         arr = new int[size];
         capacity = size;
