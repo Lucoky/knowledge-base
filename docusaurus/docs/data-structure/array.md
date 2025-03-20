@@ -67,6 +67,8 @@ arr.push_back(2);
 int firstElement = arr[0];
 ```
 
+Normally, in most programming languages, dynamic arrays are implemented using lists or vectors.
+
 Complexity:
 - Access: O(1)
 - Insertion: O(1) (If the insertion is in the middle of the array, it will be O(n))
