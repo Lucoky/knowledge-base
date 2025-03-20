@@ -16,3 +16,5 @@ Feel free to explore and contribute to this growing repository of knowledge. Hap
 The main topics covered in this section are:
 
 - [Arrays](data-structure/array.md)
+- [Stacks](data-structure/stack.md)
+- [Queues](data-structure/queue.md)
