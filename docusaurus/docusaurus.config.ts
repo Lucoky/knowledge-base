@@ -77,6 +77,12 @@ const config: Config = {
           label: 'Data Structures',
         },
         {
+          type: 'docSidebar',
+          sidebarId: 'algorithms',
+          position: 'left',
+          label: 'Algorithms',
+        },
+        {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
           position: 'right',

@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Queue
+# Queues
 
 A queue is a linear data structure that follows the First In First Out (FIFO)
 principle. In a queue, elements are inserted at the back (rear) and removed 
@@ -51,7 +51,7 @@ public class Queue
     private int rear;
     private int capacity;
 
-    public Queue(int size)
+    public Queue()
     {
         arr = new int[size];
         capacity = size;
